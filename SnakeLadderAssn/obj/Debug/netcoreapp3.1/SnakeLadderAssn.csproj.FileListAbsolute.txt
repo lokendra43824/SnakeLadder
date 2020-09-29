@@ -1,0 +1,13 @@
+C:\Users\NAGENDRA AND JANAKI\source\repos\SnakeLadderAssn\SnakeLadderAssn\bin\Debug\netcoreapp3.1\SnakeLadderAssn.exe
+C:\Users\NAGENDRA AND JANAKI\source\repos\SnakeLadderAssn\SnakeLadderAssn\bin\Debug\netcoreapp3.1\SnakeLadderAssn.deps.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\SnakeLadderAssn\SnakeLadderAssn\bin\Debug\netcoreapp3.1\SnakeLadderAssn.runtimeconfig.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\SnakeLadderAssn\SnakeLadderAssn\bin\Debug\netcoreapp3.1\SnakeLadderAssn.runtimeconfig.dev.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\SnakeLadderAssn\SnakeLadderAssn\bin\Debug\netcoreapp3.1\SnakeLadderAssn.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\SnakeLadderAssn\SnakeLadderAssn\bin\Debug\netcoreapp3.1\SnakeLadderAssn.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\SnakeLadderAssn\SnakeLadderAssn\obj\Debug\netcoreapp3.1\SnakeLadderAssn.csprojAssemblyReference.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\SnakeLadderAssn\SnakeLadderAssn\obj\Debug\netcoreapp3.1\SnakeLadderAssn.AssemblyInfoInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\SnakeLadderAssn\SnakeLadderAssn\obj\Debug\netcoreapp3.1\SnakeLadderAssn.AssemblyInfo.cs
+C:\Users\NAGENDRA AND JANAKI\source\repos\SnakeLadderAssn\SnakeLadderAssn\obj\Debug\netcoreapp3.1\SnakeLadderAssn.csproj.CoreCompileInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\SnakeLadderAssn\SnakeLadderAssn\obj\Debug\netcoreapp3.1\SnakeLadderAssn.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\SnakeLadderAssn\SnakeLadderAssn\obj\Debug\netcoreapp3.1\SnakeLadderAssn.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\SnakeLadderAssn\SnakeLadderAssn\obj\Debug\netcoreapp3.1\SnakeLadderAssn.genruntimeconfig.cache

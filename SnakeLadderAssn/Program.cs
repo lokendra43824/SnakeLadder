@@ -1,12 +1,19 @@
 ﻿using System;
 
-namespace SnakeLadderAssn
+namespace SnakeLadder
 {
     class Program
     {
+
+        public static int GetPositon()
+        {
+            Random rand = new Random();
+
+            return rand.Next(0, 7);
+        }
         static void Main(string[] args)
         {
-            Console.Out.WriteLine("Welcome to Snake Ladder Problem");
+
 
             //Constants
 
@@ -16,7 +23,15 @@ namespace SnakeLadderAssn
 
             int position = 0;
 
+
             Console.Out.WriteLine("Start position is: " + INITIAL_POS);
+
+            position = INITIAL_POS + GetPositon();
+
+            Console.Out.WriteLine("After the first roll: " + position);
+
+
+
         }
     }
 }

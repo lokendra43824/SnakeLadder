@@ -30,37 +30,42 @@ namespace SnakeLadder
             int play_option = 0;
 
 
-            next_position = GetPositon(0, 7);
-
-            play_option = GetPositon(0, 3);
 
 
-            switch (play_option)
+            while (position != 100)
             {
-                case NO_Play:
-                    Console.Out.WriteLine("NO_PLAY, ur postion is " + position);
-                    break;
-                case Ladder:
-                    position += next_position;
-                    Console.Out.WriteLine("Moved forward to " + position);
-                    break;
-                case Snake:
-                    position -= next_position;
-                    if (position <= 0)
-                    {
-                        position = 0;
-                    }
-                    Console.Out.WriteLine("Moved backward to " + position);
-                    break;
-                default:
-                    break;
+                next_position = GetPositon(0, 7);
+
+                play_option = GetPositon(0, 3);
+
+                switch (play_option)
+                {
+                    case NO_Play:
+                        Console.Out.WriteLine("NO_PLAY, ur postion is " + position);
+                        break;
+                    case Ladder:
+                        position += next_position;
+                        if (position > 100)
+                        {
+                            position -= next_position;
+                            break;
+                        }
+                        Console.Out.WriteLine("Moved forward to " + position);
+                        break;
+                    case Snake:
+                        position -= next_position;
+                        if (position <= 0)
+                        {
+                            position = 0;
+                        }
+                        Console.Out.WriteLine("Moved backward to " + position);
+                        break;
+                    default:
+                        break;
+                }
+
             }
 
         }
     }
 }
-
-
-
-
-
